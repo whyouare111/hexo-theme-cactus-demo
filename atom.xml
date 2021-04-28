@@ -6,7 +6,7 @@
   <link href="https://whyouare111.github.io/hexo-theme-cactus-demo/atom.xml" rel="self"/>
   
   <link href="https://whyouare111.github.io/hexo-theme-cactus-demo/"/>
-  <updated>2021-04-28T05:51:27.980Z</updated>
+  <updated>2021-04-28T07:15:50.747Z</updated>
   <id>https://whyouare111.github.io/hexo-theme-cactus-demo/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试自定义 IPFS 网关上传图片</title>
+    <link href="https://whyouare111.github.io/hexo-theme-cactus-demo/2021/04/28/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%AE%9A%E4%B9%89-IPFS-%E7%BD%91%E5%85%B3%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/"/>
+    <id>https://whyouare111.github.io/hexo-theme-cactus-demo/2021/04/28/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%AE%9A%E4%B9%89-IPFS-%E7%BD%91%E5%85%B3%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/</id>
+    <published>2021-04-28T06:46:51.000Z</published>
+    <updated>2021-04-28T07:15:50.747Z</updated>
+    
+    <content type="html"><![CDATA[<p>首先自定义一个网关 <code>https://10.via0.com</code> 来测试</p><p><img src="https://10.via0.com/ipfs/bafybeih5mhwj2hrhqp35o377pnbc3wf3pbwaep5yupy6ee73zqq6xm6dja" alt="photo-nic-co-uk-nic-SeWk1Xb3wIc-unsplash.jpg"></p><p>编辑后换回 fleek 自己的网关 <code>https://ipfs.fleek.co</code> 也没有问题 😄</p><p><img src="https://ipfs.fleek.co/ipfs/bafybeifnms5qr5mzuyaulhczc4wwasgfw7gt5cjs6bavec7ycimxcsiuqa" alt="1ed530692e2801ad33cf73a654f52602.jpg"><br><a href="https://">超链接测试</a></p><p>嵌入超媒体测试。因为是独立个站，风险可以自己控制</p><iframe width="100%" src="https://10.via0.com/ipfs/QmXmmvy8NJWbpb9qurjwADdaqDuz9HMVCYMoFxicQ2rrj5/aplayer-demo/"></iframe>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;首先自定义一个网关 &lt;code&gt;https://10.via0.com&lt;/code&gt; 来测试&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://10.via0.com/ipfs/bafybeih5mhwj2hrhqp35o377pnbc3wf3pbwaep5yupy6ee7</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>上传图片测试</title>
