@@ -6,7 +6,7 @@
   <link href="https://whyouare111.github.io/hexo-theme-cactus-demo/atom.xml" rel="self"/>
   
   <link href="https://whyouare111.github.io/hexo-theme-cactus-demo/"/>
-  <updated>2021-04-28T07:15:50.747Z</updated>
+  <updated>2021-04-28T08:00:58.855Z</updated>
   <id>https://whyouare111.github.io/hexo-theme-cactus-demo/</id>
   
   <author>
@@ -17,13 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>拖曳图片测试</title>
+    <link href="https://whyouare111.github.io/hexo-theme-cactus-demo/2021/04/28/%E6%8B%96%E6%9B%B3%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/"/>
+    <id>https://whyouare111.github.io/hexo-theme-cactus-demo/2021/04/28/%E6%8B%96%E6%9B%B3%E5%9B%BE%E7%89%87%E6%B5%8B%E8%AF%95/</id>
+    <published>2021-04-28T08:00:58.000Z</published>
+    <updated>2021-04-28T08:00:58.855Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="拖曳在线图片"><a href="#拖曳在线图片" class="headerlink" title="拖曳在线图片"></a>拖曳在线图片</h2><p><img src="https://images.unsplash.com/photo-1509647648544-a3e09b751ad6?ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDF8NnNNVmpUTFNrZVF8fGVufDB8fHx8&ixlib=rb-1.2.1&w=1000&q=80" alt="moon"></p><p><img src="https://images.unsplash.com/photo-1597965607143-cebb8bd52c48?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1000&q=80" alt="brown and black mountain under blue sky during daytime"></p><p>原始链接和图片名称都带过来了</p><h2 id="拖曳本地图片"><a href="#拖曳本地图片" class="headerlink" title="拖曳本地图片"></a>拖曳本地图片</h2><p>无效果，没有支持拖曳直接上传</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;拖曳在线图片&quot;&gt;&lt;a href=&quot;#拖曳在线图片&quot; class=&quot;headerlink&quot; title=&quot;拖曳在线图片&quot;&gt;&lt;/a&gt;拖曳在线图片&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1509647648</summary>
+      
+    
+    
+    
+    <category term="demo" scheme="https://whyouare111.github.io/hexo-theme-cactus-demo/categories/demo/"/>
+    
+    
+    <category term="test" scheme="https://whyouare111.github.io/hexo-theme-cactus-demo/tags/test/"/>
+    
+    <category term="image" scheme="https://whyouare111.github.io/hexo-theme-cactus-demo/tags/image/"/>
+    
+  </entry>
+  
+  <entry>
     <title>测试自定义 IPFS 网关上传图片</title>
     <link href="https://whyouare111.github.io/hexo-theme-cactus-demo/2021/04/28/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%AE%9A%E4%B9%89-IPFS-%E7%BD%91%E5%85%B3%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/"/>
     <id>https://whyouare111.github.io/hexo-theme-cactus-demo/2021/04/28/%E6%B5%8B%E8%AF%95%E8%87%AA%E5%AE%9A%E4%B9%89-IPFS-%E7%BD%91%E5%85%B3%E4%B8%8A%E4%BC%A0%E5%9B%BE%E7%89%87/</id>
     <published>2021-04-28T06:46:51.000Z</published>
-    <updated>2021-04-28T07:15:50.747Z</updated>
+    <updated>2021-04-28T07:57:54.730Z</updated>
     
-    <content type="html"><![CDATA[<p>首先自定义一个网关 <code>https://10.via0.com</code> 来测试</p><p><img src="https://10.via0.com/ipfs/bafybeih5mhwj2hrhqp35o377pnbc3wf3pbwaep5yupy6ee73zqq6xm6dja" alt="photo-nic-co-uk-nic-SeWk1Xb3wIc-unsplash.jpg"></p><p>编辑后换回 fleek 自己的网关 <code>https://ipfs.fleek.co</code> 也没有问题 😄</p><p><img src="https://ipfs.fleek.co/ipfs/bafybeifnms5qr5mzuyaulhczc4wwasgfw7gt5cjs6bavec7ycimxcsiuqa" alt="1ed530692e2801ad33cf73a654f52602.jpg"><br><a href="https://">超链接测试</a></p><p>嵌入超媒体测试。因为是独立个站，风险可以自己控制</p><iframe width="100%" src="https://10.via0.com/ipfs/QmXmmvy8NJWbpb9qurjwADdaqDuz9HMVCYMoFxicQ2rrj5/aplayer-demo/"></iframe>]]></content>
+    <content type="html"><![CDATA[<p>首先自定义一个网关 <code>https://10.via0.com</code> 来测试</p><p><img src="https://10.via0.com/ipfs/bafybeih5mhwj2hrhqp35o377pnbc3wf3pbwaep5yupy6ee73zqq6xm6dja" alt="photo-nic-co-uk-nic-SeWk1Xb3wIc-unsplash.jpg"></p><p>编辑后换回 fleek 自己的网关 <code>https://ipfs.fleek.co</code> 也没有问题 😄</p><p><img src="https://ipfs.fleek.co/ipfs/bafybeifnms5qr5mzuyaulhczc4wwasgfw7gt5cjs6bavec7ycimxcsiuqa" alt="1ed530692e2801ad33cf73a654f52602.jpg"></p><p>粘贴图片 + IPFS 误操作的副作用太大了，可能不支持更好，能起到防呆的作用</p><p><a href="https://github.com/Vanessa219/vditor">超链接测试 - Vditor</a> 现在编辑器要非常小心，跳出去可就很难回来了</p><p>HTML 标签也是支持的吧</p><p><a href="https://github.com/Vanessa219/vditor" target="_blank" >在空白页打开 Vditor</a></p><p>嵌入超媒体测试。因为是独立个站，风险可以自己控制</p><iframe width="100%" src="https://10.via0.com/ipfs/QmXmmvy8NJWbpb9qurjwADdaqDuz9HMVCYMoFxicQ2rrj5/aplayer-demo/"></iframe><hr><h2 id="据说能够解析-油管链接？"><a href="#据说能够解析-油管链接？" class="headerlink" title="据说能够解析 ~~~油管链接？~~~"></a>据说能够解析 ~~~油管链接？~~~</h2><p><a href="https://www.youtube.com/watch?v=jduSMHxdYD8&amp;list=PLuhDt1vhGcrejCmYeB1uqgl9Y3f6MCyFp&amp;index=1">https://www.youtube.com/watch?v=jduSMHxdYD8&amp;list=PLuhDt1vhGcrejCmYeB1uqgl9Y3f6MCyFp&amp;index=1</a></p>]]></content>
     
     
       
