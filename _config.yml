@@ -13,8 +13,7 @@ timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://whyouare111.github.io/hexo-theme-cactus-demo
-root: /hexo-theme-cactus-demo/
+url: https://cactus.federarks.xyz
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,8 +102,4 @@ theme: cactus
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@whyouare111.github.com:whyouare111/hexo-theme-cactus-demo.git
-  branch: gh-pages
-  name: WhyYouAre
-  email: whyyouare556@protonmail.com
+  type: ''
